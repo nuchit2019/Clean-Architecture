@@ -1,7 +1,7 @@
 ## Clean Architecture คืออะไร?  
 **Clean Architecture** เป็นหลักการออกแบบซอฟต์แวร์ที่มุ่งเน้นให้ซอฟต์แวร์มีโครงสร้างที่ดี แยกส่วนประกอบต่าง ๆ ออกจากกัน ทำให้ **ยืดหยุ่น, ทดสอบง่าย, และขยายได้ในระยะยาว**  
 
- <p><img width="100%" src="/uncle-bob/images/2012-08-13-the-clean-architecture/CleanArchitecture.jpg" /></p>
+ <p><img width="100%" src="[/uncle-bob/images/2012-08-13-the-clean-architecture/CleanArchitecture.jpg](https://blog.cleancoder.com/uncle-bob/images/2012-08-13-the-clean-architecture/CleanArchitecture.jpg)" /></p>
 
 #
 
